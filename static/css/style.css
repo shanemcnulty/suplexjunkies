@@ -1,0 +1,156 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+/* Custom container */
+.container-narrow {
+    margin: 0 auto;
+    max-width: 60%;
+    height: 500px;
+    padding-top: 30px;
+}
+
+.container-wide{
+    margin: 0 auto;
+    max-width: 70%;
+    padding-top: 30px;
+}
+
+hr{
+    margin-bottom: 0;
+    margin-top: 0;
+    border-top: 0;
+}
+
+/* Main message and Contact button */
+.jumbotron {
+    margin: 60px 0;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    font-size: 72px;
+    line-height: 1;
+}
+
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+
+.background {
+    background-image: url("/media/img/main.jpg");
+    background-size: cover;
+    height: 650px;
+    text-align: center;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.background h1 {
+    padding-top: 100px;
+    font-size: 72px;
+    line-height: 1;
+}
+
+.background .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+    border: white solid;
+}
+
+.footer{
+    margin-bottom: 0;
+    margin-top: 10px;
+    background-color: white;
+    text-align: center;
+}
+
+#logo{
+    padding-top: 100px;
+}
+
+#logo-nav{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.lead {
+    padding-top: 20px;
+    font-size: 35px;
+    color: white;
+}
+
+.nav{
+    margin-top: 30px;
+}
+
+a{
+    color: black;
+}
+
+.about {
+    background-image: url("/media/img/about1.jpg");
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    margin-top: 30px;
+    width: 100%;
+    color: black;
+}
+
+.dvd {
+    background-image: url("/media/img/dvd.jpg");
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.ding {
+    background-image: url("/media/img/ding.jpg");
+    background-size: cover;
+    height: 710px;
+    text-align: center;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.regb {
+    background-image: url("/media/img/reg.jpg");
+    background-size: cover;
+    height: 900px;
+    text-align: center;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.product{
+    padding-top: 330px;
+}
+
+thead{
+    color: white;
+}
+
+.abouttext{
+    padding: 20px;
+    background-color: white;
+}
+
+.form{
+    margin-top: 240px;
+    color: white;
+}
+
+textarea.form-control {
+    height: 80px;
+}
+
+.reg {
+    color: white;
+    padding-top: 250px;
+}
